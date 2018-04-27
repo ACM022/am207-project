@@ -1,5 +1,5 @@
 # am207-project
-Project for AM207 Course
+**Project for AM207 Course**
 
 **Files**:
 * **Algorithm Implementation.ipynb**:  contains project code (read data, fit model, visualize predictions)
